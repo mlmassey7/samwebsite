@@ -1,0 +1,52 @@
+.page-background{
+
+    background-color: #DAA520;
+    width: 100%;
+    height: 100%;
+   
+}
+.seaniehalloween{
+    width: 100%;
+    height: 300px;
+    background: #DAA520 url("seaniehalloween.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0%;
+    
+}
+.page-background{
+    background: #DAA520 url("hockeyblue.jpg");
+    background-repeat: repeat;
+    background-position: center;
+    height: 100%;
+    border: 3px solid #00008B;
+}
+.photo{
+	max-width: 500px;
+	max-height: 500px;
+	min-width: 500px;
+	min-height: 500px;
+    border: 2px solid purple;
+   display: block;
+    margin-left: auto;
+    margin-right: auto 
+
+}
+.head{
+    text-align: center;
+	color: purple;
+}
+
+.stuff{
+    font-family: georgia;
+    max-width: 690px;
+    padding: 25px;
+    height: 10%;
+    margin-bottom: 5px;
+    background-color: white;
+    border: .5px solid black;
+    text-align: left;
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
