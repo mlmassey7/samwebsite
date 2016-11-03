@@ -1,10 +1,11 @@
 .page-background{
-    background: #00008B url("hockeyblue.jpg");
+    background: blue url("hockeyblue.jpg");
     background-repeat: repeat;
     background-position: center;
     height: 100%;
     border: 3px solid #00008B;
     width: 100%;
+
 }
 img{
 	max-width: 300px;
@@ -24,6 +25,7 @@ img{
      padding: 25px;
       background-color: #D3D3D3;
       border: .5px solid blue;
+      font-style: italic;
 }
 
 .stuff{
